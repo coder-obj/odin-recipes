@@ -1,6 +1,7 @@
-This is the recipe project from the HTML Foundations portion of The Odin Project.
+This is the recipe project from the HTML Foundations portion of The Odin Project. The aim is to demonstrate my
+knowledge of basic HTML and to familiarize myself with the Git workflow through the command line.
 
-Some skills I've gained with this project:
+Some thoughts with this project:
 
 1. After utilizing the command line many times (in and out of VSCode), I am comfortable with the Git workflow.
    I am still learning when and how often to commit, but I am sure that skill will build up as I delve further
