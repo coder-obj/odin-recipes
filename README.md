@@ -1,5 +1,10 @@
-This is a project from The Odin Project's HTML Foundations.
-I will be creating a website consisting of HTML to cement what I've
-learned from the last few lessons. The main page will consist of several links
-to recipes of my own choosing. These links will bring you to an image, description,
-ingredient list, as well as instructions.
+This is the recipe project from the HTML Foundations portion of The Odin Project.
+
+Some skills I've gained with this project:
+
+1. After utilizing the command line many times (in and out of VSCode), I am comfortable with the Git workflow.
+   I am still learning when and how often to commit, but I am sure that skill will build up as I delve further
+   into TOP.
+2. It was so cool seeing all the changes on my GitHub repos. My profile seems much less daunting to navigate.
+3. I was struggling a bit with the anchor links via relative paths and parent directories, but I understand them much
+   better after reading Interneting is Hard's post on links and images. The visuals were a great help!
