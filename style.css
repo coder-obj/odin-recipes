@@ -9,7 +9,7 @@ body {
     font-family: monospace;
 }
 
-.recipes {
+.recipe-links {
     background-color: white;
     width: 350px;
     height: auto;
@@ -17,7 +17,7 @@ body {
     border-bottom: 20px solid black;
 }
 
-.main-title {
+#index-card h1 {
     background-color: black;
     color: white;
     width: 350px;
@@ -39,7 +39,7 @@ a:hover {
     background-color: yellow;
 }
 
-.recipes li {
+.recipe-links li {
     list-style-type: none;
 }
 
@@ -50,7 +50,7 @@ a:hover {
     font-size: small;
 }
 
-.title {
+#recipe-card h1 {
     background-color: black;
     color: white;
     width: 700px;
@@ -64,17 +64,17 @@ a:hover {
     box-sizing: border-box;
 }
 
-.subsection h2 {
+.recipe-content h2 {
     font-family: Arial;
     letter-spacing: -1.5px;
     font-style: italic;
 }
 
-.main-content {
+.recipe-content {
     background-color: white;
     width: 700px;
     height: auto;
-    padding: 25px;
+    padding: 50px 70px;
     border-bottom: 20px solid black;
 }
 
@@ -83,18 +83,18 @@ a:hover {
 }
 
 #recipe-card img {
-    margin-bottom: 20px;
+    margin-bottom: 50px;
 }
 
 #recipe-card ul {
     margin-bottom: 10px;
 }
 
-.subsection ol {
+.instructions ol {
     margin-left: 25px;
 }
 
-.subsection ul {
+.ingredients ul {
     margin-left: 35px;
 }
 
